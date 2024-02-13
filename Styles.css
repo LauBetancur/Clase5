@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: :border-box;
+        font-family: "Protest Strike", sans-serif;
+      
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.fuente{
+    color:rgb(173, 32, 124);
+    font-size: 3rem;
+}
+#parrafo{color:rgb(202, 32, 60);}
+
+.cuadrito{background-color: blueviolet;
+width: 500px;
+height: 200px;
+padding:1rem 1rem;
+margin: 2rem;
+box-sizing: border-box;
+
+}
+.cuadrito2{
+    
+background-color:  palevioletred;
+width: 50%;
+height:50%;
+
+}
+
+.cuadrito2:hover{
+    transition: 1s ease-in;
+    background-color: brown;
+
+}
+    
